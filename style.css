@@ -1,0 +1,23 @@
+body {
+     background-color: #282c34;
+     color: white;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 100vh;
+     margin: 0;
+   }
+   
+   .container {
+     text-align: center;
+   }
+   
+   .message {
+     font-size: 2em;
+   }
+   
+   .countdown {
+     font-size: 1.5em;
+     margin-top: 20px;
+   }
+   
